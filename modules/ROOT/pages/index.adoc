@@ -1,0 +1,6 @@
+:imagesdir: ../images
+
+= Welcome to the .NET stack of devonfw
+
+
+
